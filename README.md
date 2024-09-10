@@ -25,17 +25,17 @@ MQTT Broker: Use Mosquitto or any MQTT broker to handle the data transmission be
 
 Clone the Repository:
 
-git clone https://github.com/ahmad-bashyr/IoTForensic_Solution.git
-cd IoTForensic_Solution
-Running the Python Scripts
+git clone https://github.com/ahmad-bashyr/IoTForensic_Solution.git, 
+cd IoTForensic_Solution, 
+Running the Python Scripts,
 plaintext.py: Run this script to simulate IoT data transmission without encryption.
 
 
-python plaintext.py
+python plaintext.py,
 encrypted_data.py: Run this script to simulate IoT data transmission with AES encryption.
 
-python encrypted_data.py
-Running the IoT Forensic Solution
+python encrypted_data.py,
+Running the IoT Forensic Solution,
 The IoT Forensic Solution is implemented as a C# console application. To run the solution:
 
 Open the project in Visual Studio.
