@@ -1,0 +1,182 @@
+[8/10/2024 10:12:02 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:12:02 AM] [INFO] Collected Data: YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:14:31 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:14:31 AM] [INFO] Collected Data: YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:16:22 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:16:23 AM] [INFO] Collected Data: YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:16:23 AM] [INFO] Encrypted Data: 17D3OUezQEdDFy/MmgF7KebS0pQeyvkvByvC3vQT44+1zPocyKgf+lE49kt9Bdt8
+[8/10/2024 10:16:23 AM] [INFO] Decrypted Data: YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:16:23 AM] [INFO] Processed Data: Processed YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:16:23 AM] [INFO] Analysis Result: Analyzed Processed YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:16:23 AM] [INFO] Generated Report: 
+---- Forensic Analysis Report ----
+Date: 8/10/2024 10:16:23 AM
+
+Analysis Data:
+Analyzed Processed YOUR_COLLECTED_CIPHERTEXT
+----------------------------------
+
+[8/10/2024 10:16:23 AM] [INFO] IoT Forensic Solution Completed
+[8/10/2024 10:22:15 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:22:15 AM] [INFO] Collected Data: YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:22:15 AM] [INFO] Encrypted Data: M5U1h7s9fmgzWKa8JSY9gzmEPfHlWRTlozc1LdRp9UjWKvkUcTMdOlOgAjKvk6vk
+[8/10/2024 10:22:15 AM] [INFO] Decrypted Data: YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:22:15 AM] [INFO] Processed Data: Processed YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:22:15 AM] [INFO] Analysis Result: Analyzed Processed YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:22:15 AM] [INFO] Generated Report: 
+---- Forensic Analysis Report ----
+Date: 8/10/2024 10:22:15 AM
+
+Analysis Data:
+Analyzed Processed YOUR_COLLECTED_CIPHERTEXT
+----------------------------------
+
+[8/10/2024 10:22:15 AM] [INFO] IoT Forensic Solution Completed
+[8/10/2024 10:26:57 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:26:58 AM] [INFO] Collected Data: YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:26:58 AM] [INFO] Encrypted Data: ayoVyphlJR0C9HpxcFlfAB3RVwhIzY/DoqrZjgBbd8HpM/g3RwJOQfXtmKeRk4UZ
+[8/10/2024 10:26:58 AM] [INFO] Decrypted Data: YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:26:58 AM] [INFO] Processed Data: Processed YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:26:58 AM] [INFO] Analysis Result: Analyzed Processed YOUR_COLLECTED_CIPHERTEXT
+[8/10/2024 10:26:58 AM] [INFO] Generated Report: 
+---- Forensic Analysis Report ----
+Date: 8/10/2024 10:26:58 AM
+
+Analysis Data:
+Analyzed Processed YOUR_COLLECTED_CIPHERTEXT
+----------------------------------
+
+[8/10/2024 10:26:58 AM] [INFO] IoT Forensic Solution Completed
+[8/10/2024 10:28:31 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:28:32 AM] [INFO] Collected Encrypted Data: YOUR_ENCRYPTED_CIPHERTEXT_FROM_THINGSBOARD
+[8/10/2024 10:36:36 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:36:36 AM] [INFO] Collected Encrypted Data: YOUR_ENCRYPTED_CIPHERTEXT_FROM_THINGSBOARD
+[8/10/2024 10:38:10 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:38:10 AM] [INFO] Collected Encrypted Data: YOUR_ENCRYPTED_CIPHERTEXT_FROM_THINGSBOARD
+[8/10/2024 10:39:18 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:39:19 AM] [INFO] Collected Encrypted Data: YOUR_ENCRYPTED_CIPHERTEXT_FROM_THINGSBOARD
+[8/10/2024 10:39:48 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:39:48 AM] [INFO] Collected Encrypted Data: YOUR_ENCRYPTED_CIPHERTEXT_FROM_THINGSBOARD
+[8/10/2024 10:42:47 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:42:47 AM] [INFO] Collected Encrypted Data: YOUR_ENCRYPTED_CIPHERTEXT_FROM_THINGSBOARD
+[8/10/2024 10:44:29 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:44:30 AM] [INFO] Collected Encrypted Data: YOUR_ENCRYPTED_CIPHERTEXT_FROM_THINGSBOARD
+[8/10/2024 10:47:53 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:47:54 AM] [INFO] Collected Encrypted Data: YOUR_ENCRYPTED_CIPHERTEXT_FROM_THINGSBOARD
+[8/10/2024 10:49:40 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:49:41 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:49:42 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:49:42 AM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 10:49:43 AM] [INFO] Disconnected from MQTT broker.
+[8/10/2024 10:51:22 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:51:23 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:51:23 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:51:23 AM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 10:51:24 AM] [INFO] Disconnected from MQTT broker.
+[8/10/2024 10:52:29 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:52:30 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:52:30 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:52:30 AM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 10:52:31 AM] [INFO] Disconnected from MQTT broker. Attempting to reconnect in 5 seconds...
+[8/10/2024 10:52:36 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:52:36 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:53:04 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:53:05 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:53:05 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:53:05 AM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 10:53:06 AM] [INFO] Disconnected from MQTT broker. Attempting to reconnect in 5 seconds...
+[8/10/2024 10:53:11 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:53:11 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:53:12 AM] [INFO] Disconnected from MQTT broker. Attempting to reconnect in 5 seconds...
+[8/10/2024 10:53:17 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:53:17 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:53:18 AM] [INFO] Disconnected from MQTT broker. Attempting to reconnect in 5 seconds...
+[8/10/2024 10:53:23 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:53:23 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:53:25 AM] [INFO] Disconnected from MQTT broker. Attempting to reconnect in 5 seconds...
+[8/10/2024 10:53:30 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:53:30 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:53:31 AM] [INFO] Disconnected from MQTT broker. Attempting to reconnect in 5 seconds...
+[8/10/2024 10:53:36 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:53:36 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:53:37 AM] [INFO] Disconnected from MQTT broker. Attempting to reconnect in 5 seconds...
+[8/10/2024 10:53:42 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:53:42 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:53:43 AM] [INFO] Disconnected from MQTT broker. Attempting to reconnect in 5 seconds...
+[8/10/2024 10:53:48 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:53:48 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:53:49 AM] [INFO] Disconnected from MQTT broker. Attempting to reconnect in 5 seconds...
+[8/10/2024 10:55:03 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 10:55:04 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:55:04 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:55:04 AM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 10:55:05 AM] [INFO] Disconnected from MQTT broker: . Attempting to reconnect in 5 seconds...
+[8/10/2024 10:55:11 AM] [INFO] Connected to MQTT broker.
+[8/10/2024 10:55:11 AM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 10:55:12 AM] [INFO] Disconnected from MQTT broker: . Attempting to reconnect in 5 seconds...
+[8/10/2024 11:00:46 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:01:36 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:03:01 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:04:54 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:04:54 AM] [INFO] IV Base64: <YourCapturedIV>
+[8/10/2024 11:04:54 AM] [INFO] Ciphertext Base64: <YourCapturedCiphertext>
+[8/10/2024 11:04:54 AM] [INFO] One or both of the Base64 strings are invalid.
+[8/10/2024 11:04:54 AM] [INFO] IoT Forensic Solution Completed
+[8/10/2024 11:06:39 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:06:39 AM] [INFO] IV Base64: MTIzNDU2Nzg5MGFiY2RlZg==
+[8/10/2024 11:06:39 AM] [INFO] Ciphertext Base64: U29tZSBlbmNyeXB0ZWQgZGF0YQ==
+[8/10/2024 11:06:39 AM] [INFO] Error: The input data is not a complete block.
+[8/10/2024 11:06:39 AM] [INFO] IoT Forensic Solution Completed
+[8/10/2024 11:07:46 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:07:46 AM] [INFO] IV Base64: MTIzNDU2Nzg5MGFiY2RlZg==
+[8/10/2024 11:07:46 AM] [INFO] Ciphertext Base64: U29tZSBlbmNyeXB0ZWQgZGF0YQ==
+[8/10/2024 11:07:47 AM] [INFO] Error: Padding is invalid and cannot be removed.
+[8/10/2024 11:07:47 AM] [INFO] IoT Forensic Solution Completed
+[8/10/2024 11:11:24 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:11:24 AM] [INFO] IV Base64: MTIzNDU2Nzg5MGFiY2RlZg==
+[8/10/2024 11:11:24 AM] [INFO] Ciphertext Base64: U29tZSBlbmNyeXB0ZWQgZGF0YQ==
+[8/10/2024 11:11:24 AM] [INFO] Decrypted Data: ]|�w��z��{y�OF\
+[8/10/2024 11:11:24 AM] [INFO] IoT Forensic Solution Completed
+[8/10/2024 11:15:06 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:15:55 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:18:54 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:20:23 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:22:20 AM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 11:22:20 AM] [INFO] IV Base64: MTIzNDU2Nzg5MGFiY2RlZg==
+[8/10/2024 11:22:20 AM] [INFO] Ciphertext Base64: U29tZSBlbmNyeXB0ZWQgZGF0YQ==
+[8/10/2024 11:22:20 AM] [INFO] Error: The input data is not a complete block.
+[8/10/2024 11:22:20 AM] [INFO] IoT Forensic Solution Completed
+[8/10/2024 12:08:18 PM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 12:08:19 PM] [INFO] Connected to MQTT broker.
+[8/10/2024 12:08:19 PM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 12:08:19 PM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 12:08:56 PM] [INFO] Disconnected from MQTT broker.
+[8/10/2024 12:09:23 PM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 12:09:23 PM] [INFO] Connected to MQTT broker.
+[8/10/2024 12:09:23 PM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 12:09:23 PM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 12:09:24 PM] [INFO] Disconnected from MQTT broker.
+[8/10/2024 12:09:49 PM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 12:09:50 PM] [INFO] Connected to MQTT broker.
+[8/10/2024 12:09:50 PM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 12:09:50 PM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 12:10:17 PM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 12:10:18 PM] [INFO] Connected to MQTT broker.
+[8/10/2024 12:10:18 PM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 12:10:18 PM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 12:13:00 PM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 12:13:01 PM] [INFO] Connected to MQTT broker.
+[8/10/2024 12:13:01 PM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 12:13:01 PM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 12:15:22 PM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 12:15:23 PM] [INFO] Connected to MQTT broker.
+[8/10/2024 12:15:23 PM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 12:15:23 PM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 12:15:38 PM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 12:15:39 PM] [INFO] Connected to MQTT broker.
+[8/10/2024 12:15:39 PM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 12:15:39 PM] [INFO] IoT Forensic Solution running. Press any key to exit.
+[8/10/2024 12:16:56 PM] [INFO] Starting IoT Forensic Solution
+[8/10/2024 12:16:57 PM] [INFO] Connected to MQTT broker.
+[8/10/2024 12:16:57 PM] [INFO] Subscribed to telemetry topic.
+[8/10/2024 12:16:57 PM] [INFO] IoT Forensic Solution running. Press any key to exit.
