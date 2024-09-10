@@ -3,7 +3,7 @@ An Approach to Extract Sensor Data From IoT Devices For Forensic Analysis
 IoT Forensic Solution
 This repository contains the implementation of an IoT Forensic Solution that can extract, decrypt, and analyze data from IoT devices, specifically focusing on handling encrypted network traffic. The solution was developed as part of a research project to address key challenges in IoT forensics, such as the extraction of encrypted sensor data.
 
-Project Overview
+Project Overview:
 The IoT Forensic Solution provides a modular framework designed to assist forensic investigators in gathering and analyzing encrypted data from IoT devices. The system is capable of handling a wide variety of IoT protocols and devices, ensuring flexibility and scalability for large-scale IoT environments.
 
 The core functionality includes:
@@ -23,7 +23,7 @@ ThingsBoard: Install ThingsBoard as the IoT platform to simulate devices and cap
 PostgreSQL: Install PostgreSQL for storing the collected forensic data.
 MQTT Broker: Use Mosquitto or any MQTT broker to handle the data transmission between the IoT devices and ThingsBoard.
 
-Clone the Repository
+Clone the Repository:
 
 git clone https://github.com/ahmad-bashyr/IoTForensic_Solution.git
 cd IoTForensic_Solution
